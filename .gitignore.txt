@@ -1,0 +1,3 @@
+#files and paths outlined in here will be ignored when adding or committing?
+#ignore not_needed.txt
+*not_needed.txt
